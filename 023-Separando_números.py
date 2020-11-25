@@ -1,7 +1,0 @@
-num = float(input('Diga um numero de até quatro digitos: '))
-n = str(num)
-print('Analizando o número {}...'.format(num))
-print("Unidade: {}".format(n[3]))
-print("Dezena: {}".format(n[2]))
-print("Centena: {}".format(n[1]))
-print("Milhar: {}".format(n[0]))
